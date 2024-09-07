@@ -23,7 +23,7 @@ function Home2() {
               <br />
               <br />We are fluent
               <i>
-                <b className="purple">Python, Node.js and C#</b>
+                <b className="purple">Wordpress, React.js, Angular, Flutter, Node.JS, MySQL</b>
               </i>
               <br />
               <br />
@@ -37,7 +37,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, We also apply my passion for developing products
+              {/* We also apply our passion for developing products
               with <b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
@@ -48,7 +48,7 @@ function Home2() {
               &nbsp; like
               <i>
                 <b className="purple"> React.js</b>
-              </i>
+              </i> */}
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -59,14 +59,14 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+            <h1>FIND US ON</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Feel free to <span className="purple">connect </span>with us
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/SHREYK213"
+                  href="#"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
