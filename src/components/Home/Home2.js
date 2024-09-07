@@ -16,28 +16,28 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              LET US <span className="purple"> INTRODUCE </span> OURSELVES
             </h1>
             <p className="home-about-body">
-              I am a versatile coder who has explored multiple tech stacks, and I am quite proficient at what I do, I believe... 🤷‍♂️
+              We are a versatile group who has explored multiple tech stacks, and we are quite proficient at what We do.
               <br />
-              <br />I am fluent
+              <br />We are fluent
               <i>
                 <b className="purple">Python, Node.js and C#</b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              Our field of Expertise are building new &nbsp;
               <i>
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Game Development.
+                  Marketing.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
+              Whenever possible, We also apply my passion for developing products
               with <b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
@@ -76,7 +76,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/ItsZeeMuffinMan"
+                  href="#"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -86,7 +86,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/shreyas-poojary-b17628225/"
+                  href="#"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -96,7 +96,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/_shreyas__k/"
+                  href="#"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
